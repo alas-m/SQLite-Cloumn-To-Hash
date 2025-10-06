@@ -33,6 +33,7 @@ This tool is useful for anonymizing, verifying, or securing sensitive column dat
 
 ## ⚙️ Installation
 `git clone https://github.com/yourusername/sqlite-column-hasher.git`
+
 `cd sqlite-column-hasher`
 
 ## 💻 Usage
