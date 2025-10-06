@@ -32,8 +32,8 @@ This tool is useful for anonymizing, verifying, or securing sensitive column dat
 - hashlib (built-in)
 
 ## ⚙️ Installation
-`git clone https://github.com/yourusername/sqlite-column-hasher.git
-cd sqlite-column-hasher`
+`git clone https://github.com/yourusername/sqlite-column-hasher.git`
+`cd sqlite-column-hasher`
 
 ## 💻 Usage
 1. Edit `DB_PATH`, `TABLES`, and `INCLUDE_COLS_ONLY` in the script.
