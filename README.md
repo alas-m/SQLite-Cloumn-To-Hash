@@ -1,2 +1,6 @@
-# SQLite-Cloumn-To-Hash
-A simple Python tool that adds SHA-256 hash columns to your SQLite database tables. It automatically creates new _sha256 columns for selected fields and fills them with binary hash values — perfect for anonymizing or verifying sensitive data without altering the originals.
+# 🔐 SQLite Column Hasher
+A lightweight Python utility for automatically generating SHA-256 hashes of selected columns in one or more SQLite database tables.
+
+This tool is useful for anonymizing, verifying, or securing sensitive column data without altering the original values.
+
+## 📦 Features
