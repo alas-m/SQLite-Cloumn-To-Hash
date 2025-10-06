@@ -32,9 +32,9 @@ This tool is useful for anonymizing, verifying, or securing sensitive column dat
 - hashlib (built-in)
 
 ## ⚙️ Installation
-`git clone https://github.com/yourusername/sqlite-column-hasher.git`
+`git clone https://github.com/alas-m/SQLite-Column-To-Hash.git`
 
-`cd sqlite-column-hasher`
+`cd SQLite-Column-To-Hash`
 
 ## 💻 Usage
 1. Edit `DB_PATH`, `TABLES`, and `INCLUDE_COLS_ONLY` in the script.
